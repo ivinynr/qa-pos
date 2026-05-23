@@ -1,0 +1,15 @@
+serverrest\test\carrinho\CarrinhoTest.class
+serverrest\test\produto\ProdutoTest.class
+serverrest\BaseTest.class
+serverrest\test\carrinho\ContratoCarrinhoTest.class
+dto\CarrinhoDTO.class
+dto\ProdutoDTO.class
+dto\UsuarioRespDTO.class
+serverrest\test\usuario\UsuarioTest.class
+serverrest\test\usuario\UsuarioModelo2Test.class
+serverrest\test\login\LoginTest.class
+serverrest\test\login\LoginModeloDoisTest.class
+dto\LoginDTO.class
+dto\CarrinhoItemDTO.class
+serverrest\test\usuario\ContratoTest.class
+dto\UsuarioReqDTO.class
